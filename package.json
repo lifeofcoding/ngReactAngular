@@ -1,0 +1,27 @@
+{
+  "name": "ngReactAngular",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeofcoding/ngReactAngular"
+  },
+  "author": "Jimmy Rousseau",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "private": false,
+  "devDependencies": {
+    "bower": "^1.7.2",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-react": "^3.1.0",
+    "superstatic": "^4.0.1"
+  },
+  "dependencies": {}
+}
